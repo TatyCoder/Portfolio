@@ -1,3 +1,7 @@
+body {
+    background: rgb(174, 193, 228);
+}
+
 .icon-list {
     padding-left: 0;
     list-style: none;
